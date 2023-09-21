@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MMd5pnor6pNtHL4ZRgoCvtR0zuD3lwKPuBQ0iE0zxSSw1Nln+yjc7asc5vkn6TdBx4yM5rY0am2/uwiTC91vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\EXTRACTOR\\prog_2\\ENTREGABLES\\Entregable_Facturacion\\Entregable_Facturacion\\Entregable_Facturacion\\Entregable_Facturacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\140.340.80\\microsoft.reportingservices.reportviewercontrol.winforms.140.340.80.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 140.340.80 depende de Microsoft.SqlServer.Types (>= 14.0.0), pero no se encontró Microsoft.SqlServer.Types 14.0.0. Se resolvió una mejor coincidencia aproximada de Microsoft.SqlServer.Types 14.0.314.76.",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}
